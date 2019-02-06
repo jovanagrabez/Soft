@@ -1,0 +1,12 @@
+RA 154/2015 Jovana Grabez
+file sum
+video-0.avi	-4
+video-1.avi	-20
+video-2.avi	-4
+video-3.avi	-52
+video-4.avi	-42
+video-5.avi	18
+video-6.avi	-77
+video-7.avi	10
+video-8.avi	-4
+video-9.avi	17
